@@ -1,0 +1,22 @@
+C:\Users\Olga\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Olga\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Olga\source\repos\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Olga\source\repos\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\Olga\source\repos\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Olga\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Olga\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Olga\source\repos\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Olga\source\repos\Notepad\Notepad\obj\Debug\Notepad.Child.resources
+F:\C#\Windows Form\Notepad\Notepad\bin\Debug\Notepad.exe.config
+F:\C#\Windows Form\Notepad\Notepad\bin\Debug\Notepad.exe
+F:\C#\Windows Form\Notepad\Notepad\bin\Debug\Notepad.pdb
+F:\C#\Windows Form\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+F:\C#\Windows Form\Notepad\Notepad\obj\Debug\Notepad.Child.resources
+F:\C#\Windows Form\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+F:\C#\Windows Form\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+F:\C#\Windows Form\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+F:\C#\Windows Form\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+F:\C#\Windows Form\Notepad\Notepad\obj\Debug\Notepad.exe
+F:\C#\Windows Form\Notepad\Notepad\obj\Debug\Notepad.pdb
